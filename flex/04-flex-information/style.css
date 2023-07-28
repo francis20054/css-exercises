@@ -16,6 +16,7 @@ img {
   display: flex;
   justify-content: center;
 }
+
 .pants {
   display: flex;
   flex-direction: column;
